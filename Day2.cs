@@ -7,7 +7,7 @@ namespace AdventOfCode2020
     class Program
     {
 
-        static readonly string filePath = @"/Users/user/Workspace/Advent of Code 2020/AdventOfCode2020/AdventOfCode2020/input.txt";
+        static readonly string filePath = @"...input.txt";
         static void Main(string[] args)
         {
             Console.WriteLine(GetValidPasswordCount());
